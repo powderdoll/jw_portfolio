@@ -511,7 +511,7 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
-		color: #39454b;
+		color: #354f52;
 		letter-spacing: 0.025em;
 	}
 
@@ -561,7 +561,7 @@ input, select, textarea {
 
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 900;
+		font-weight: 600;
 		color: inherit;
 		letter-spacing: -0.0325em;
 	}
@@ -586,7 +586,7 @@ input, select, textarea {
 	}
 
 	strong, b {
-		font-weight: 900;
+		font-weight: 700;
 		color: inherit;
 	}
 
@@ -633,7 +633,7 @@ input, select, textarea {
 
 	.box {
 		background: #fff;
-		color: #6b9080;
+		color: #354f52;
 		padding: 2em;
 	}
 
@@ -1694,13 +1694,13 @@ input, select, textarea {
 				.main.dark p a{
 					display: inline-block;
 					padding: 5px 20px;
-					border: 1px solid #39454b;
-					color: #39454b;
+					border: 1px solid #6b9080;
+					color: #6b9080;
 					margin-bottom: 5px;
 				}
 
 				.main.dark p a:hover{
-					background-color: #39454b;
+					background-color: #6b9080;
 					color: #fff;
 				}
 
@@ -1795,7 +1795,7 @@ input, select, textarea {
 		line-height: 1em;
 		padding: 1.5em;
 		background: #6b9080;
-		color: rgba(185, 186, 187, 0.5);
+		color: rgba(185, 186, 187, 0.8);
 		overflow: hidden;
 	}
 
@@ -2013,7 +2013,7 @@ input, select, textarea {
 	
 		#contact .content .text-uppercase{
 			display: block;
-			color: #5D432D;
+			color: #6b9080;
 			padding: 1em 0 0;
 		}
 
